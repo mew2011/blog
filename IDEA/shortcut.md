@@ -11,7 +11,7 @@
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>|在某个调用的方法名上使用会跳到具体的实现处，可以跳过接口|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|打开Settings面板|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F7</kbd>|显示使用的地方。寻找被该类或是变量被调用的地方，用弹出框的方式找出来|
-|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F7</kbd>|打开一个临时窗口，临时需要格式化xml, json可用|
+|<kbd>Ctrl</kbd> + <kbd>T</kbd>|打开一个临时窗口，临时需要格式化xml, json可用. （个人设置）原按键为<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Insert</kbd>,同时移除原<kbd>Ctrl</kbd> + <kbd>T</kbd>功能|
 |<kbd>F11</kbd>|设置书签|
 |<kbd>Shift</kbd> + <kbd>F11</kbd>|查看书签|
 |<kbd>鼠标滚轮建</kbd>|在打开的文件名上点鼠标滚轮，可以关闭当前打开文件|
