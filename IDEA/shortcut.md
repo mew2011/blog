@@ -19,3 +19,5 @@
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Insert</kbd>|列选择模式|
 |<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>鼠标左键</kbd>|鼠标左键点击，选择多个不连续的范围﻿|
 |<kbd>Alt</kbd> + <kbd>鼠标左键</kbd>|按住左键拖动，选择多个连续的范围﻿|
+|<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>|全部折叠，如单一个XML文件代码太多，可全部折叠后慢慢展开，方便查看结构|
+|<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>+</kbd>|全部展开|
