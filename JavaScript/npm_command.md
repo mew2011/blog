@@ -47,5 +47,15 @@ npm install --save-dev <package_name>
 ```
 npm install -D <package_name>
 ```
-
+6. 执行package.json中scripts部分, build 指定的构建脚本
+package.json
+```
+  "scripts": {
+    "build": "vite build"
+  }
+```
+命令
+```
+npm run build
+```
 
