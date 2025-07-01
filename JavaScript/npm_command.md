@@ -23,15 +23,29 @@ npm config set cache "D:\apps\nodejs\node_cache"
 本地安装的包,只能在当前目录下使用
 ```
 ## npm命令
-全局安装
+1. 全局安装
 ```
 npm install -g express
 ```
-查看全局包清单
+2. 查看全局包清单
 ```
 npm list -g
 ```
-本地安装
+3. 本地安装
 ```
 npm install express
 ```
+4. 卸载
+```
+npm uninstall <package_name>
+```
+5. 安装开发环境需要的依赖
+```
+npm install --save-dev <package_name>
+```
+或
+```
+npm install -D <package_name>
+```
+
+
