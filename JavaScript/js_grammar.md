@@ -29,5 +29,17 @@ export function square(x) { return x * x; }
 import { PI, square } from './module.js'; // 名称必须匹配
 console.log(PI); // 3.14
 square(2); // 4
+```
 
+## constructor()
+```
+// JS使用类似JAVA OOP方式编程
+class Polygon {
+  constructor() {
+    this.name = "Polygon";
+  }
+}
+// new 实例时会执行constructor方法
+const poly1 = new Polygon();
+console.log(poly1.name);
 ```
